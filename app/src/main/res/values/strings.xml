@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">恭喜发财</string>
+    <string name="service_name">请点击此处，打开辅助服务</string>
+    <string name="action_settings">设置</string>
+    <string name="use_details">\t\t\t\t1、打开『恭喜发财』应用，开启插件。\n\t\t\t\t2、注意：本应用暂时不支持后台抢红包，\n\t\t\t\t要抢红包必须进入红包群。</string>
+</resources>
